@@ -33,4 +33,4 @@ Basic Golang setup.
    {% highlight go %}
    $ $GOPATH/bin/hello
    hello, world
-   {% endhighlight go %}
+{% endhighlight go %}
