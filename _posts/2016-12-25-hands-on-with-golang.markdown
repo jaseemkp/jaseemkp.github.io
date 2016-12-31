@@ -5,8 +5,7 @@ date: 2016-12-25 00:00:00
 categories: tech post
 ---
 
-Basic Golang setup.
-------------------
+# Basic Golang setup.
 - Best way to install go in Mac is download [official dmg](https://golang.org/dl/) file and install.
 - Check that Go is installed correctly by setting up a workspace and building a simple 'hello world' program.
 - Create a workspace directory for go project. set the **GOPATH** environment       variable to point to that location.
